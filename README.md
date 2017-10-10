@@ -1,2 +1,2 @@
 # docuflux
-Document and generic, configurable elements management system
+A management system for document, with configurable metadata.
